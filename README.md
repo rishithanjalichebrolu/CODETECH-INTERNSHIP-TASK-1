@@ -25,34 +25,42 @@ The objective of this project is to develop an interactive application that gene
 **Model Selection and Loading:**
 
 ->Choose a pre-trained generative model suitable for text-to-image tasks.
+
 ->Load the selected model into the application, ensuring it is configured for optimal performance.
 
 **User Interaction:**
 
 ->Implement a loop to prompt the user for text input continuously.
+
 ->Allow users to enter textual descriptions for the desired images.
 
 **Image Generation:**
 
 ->Generate images based on the user's textual descriptions using the loaded model.
+
 ->Resize the generated images to fit within specified dimensions for easier display.
 
 **Image Display:**
 
 ->Display the generated images directly within the application interface (e.g., a Jupyter notebook or Colab environment).
+
 ->Provide immediate visual feedback to the user based on their input.
 
 **Error Handling and Exit Mechanism:**
 
 ->Implement mechanisms to handle invalid inputs gracefully.
+
 ->Allow users to exit the input loop by typing a specific command (e.g., 'exit').
 
 **Technology Used**
 
 **Libraries and Frameworks:**
 ->Diffusers: For loading and utilizing the Stable Diffusion model.
+
 ->Torch: For handling tensor operations and ensuring compatibility with GPU.
+
 ->PIL (Python Imaging Library): For image processing, resizing, and display.
+
 ->IPython.display: For displaying images directly within a Jupyter notebook or Colab environment.
 
 **Hardware:**
