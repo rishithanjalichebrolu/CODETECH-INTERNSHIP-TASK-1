@@ -14,7 +14,7 @@
 
 # OVERVIEW OF THE PROJECT
 
-# Project Overview: Interactive Text-to-Image Generation with Stable Diffusion**
+# Project Overview: Interactive Text-to-Image Generation with Stable Diffusion
 
 **Objective**
 
