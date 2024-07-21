@@ -1,7 +1,11 @@
 **Name:** CHEBROLU RISHITHANJALI
+
 **Company:** CODTECH IT SOLUTIONS
+
 **ID:** CT08DS3984
+
 **Domain:** MACHINE LEARNING
+
 **Duration:** JULY 5th, 2024 to AUGUST 5th, 2024
 
 
